@@ -1,0 +1,9 @@
+{
+	"name": "danielpessoadatafactory",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bb12c5a-9923-4bcf-998f-aa3f69c4834a",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
